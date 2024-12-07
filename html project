@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Types of Government</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: square;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Types of Government</h1>
+    <p>Governments are systems by which a society is organized and ruled. Different types of governments exist worldwide, varying in their structure, decision-making processes, and distribution of power. Below are some common types:</p>
+    <ul>
+        <li>Democracy</li>
+        <li>Monarchy</li>
+        <li>Dictatorship</li>
+        <li>Communism</li>
+        <li>Federal Republic</li>
+        <li>Socialism</li>
+    </ul>
+    <p>For a detailed explanation of these and more types of governments, visit the <a href="https://en.wikipedia.org/wiki/Government" target="_blank">Government Wikipedia page</a>.</p>
+    <footer>
+        &copy; 2024 Government Information Page
+    </footer>
+</body>
+</html>
