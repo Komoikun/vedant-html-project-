@@ -3,42 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Types of Government</title>
+    <title>Vedant's Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
             line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        header img {
+            max-width: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
         }
         h1 {
-            text-align: center;
             color: #4CAF50;
         }
-        ul {
-            list-style-type: square;
+        section {
+            margin-bottom: 20px;
         }
         footer {
             text-align: center;
             margin-top: 20px;
             font-size: 0.9em;
-            color: gray;
+            color: #777;
+        }
+        .socials a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin-right: 10px;
+        }
+        .socials a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <h1>Types of Government</h1>
-    <p>Governments are systems by which a society is organized and ruled. Different types of governments exist worldwide, varying in their structure, decision-making processes, and distribution of power. Below are some common types:</p>
-    <ul>
-        <li>Democracy</li>
-        <li>Monarchy</li>
-        <li>Dictatorship</li>
-        <li>Communism</li>
-        <li>Federal Republic</li>
-        <li>Socialism</li>
-    </ul>
-    <p>For a detailed explanation of these and more types of governments, visit the <a href="https://en.wikipedia.org/wiki/Government" target="_blank">Government Wikipedia page</a>.</p>
+    <header>
+        <img src="thisisme.jpeg" alt="This is me">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hello! I'm Vedant</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I am a state-level football player, currently pursuing my BTech degree from SSIPMT Mujgahan. I have a strong passion for game development, which is why I started learning C++.</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: Python, C++</li>
+            <li>Football (State-level player)</li>
+        </ul>
+    </section>
+    <section>
+        <h2>My Goals</h2>
+        <p>My dream is to become a game developer. I am working hard to learn and improve my skills in programming and game development.</p>
+    </section>
+    <section>
+        <h2>Socials</h2>
+        <p class="socials">
+            <a href="https://github.com/Komoikun" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/vedant-tiwari-80aa4425b/" target="_blank">LinkedIn</a>
+        </p>
+    </section>
     <footer>
-        &copy; 2024 Government Information Page
+        &copy; 2024 Vedant | All Rights Reserved
     </footer>
 </body>
 </html>
